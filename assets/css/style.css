@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+td{
+  border: 2px solid;
+  height: 130px;
+  width: 33%;
+  font-size: 100px;
+  text-align: center;
+}
+
+table{
+  width: 600px;
+  margin: 0 auto;
+}
+
+.winsPar {
+  font-size: 50px;
+  text-align: center;
+}
+
+button {
+   width: 100%;
+   margin-top: 150px;
+   height: 100px;
+   
+}
